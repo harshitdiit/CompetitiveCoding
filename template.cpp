@@ -9,8 +9,6 @@ using namespace std;
 #define foutput ofstream cout;cout.open("out.txt")
 #define F(i, N) for(int i=0; i<N; i++)
 #define MOD 1000000007
-
-// Fast I/O
 #define fastio ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL)
 
 // Lower Bound Binary Search
